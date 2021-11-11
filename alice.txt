@@ -1,1 +1,2 @@
 Hello checking how git tracks the changes
+pushed the file from local strage to remote repository
